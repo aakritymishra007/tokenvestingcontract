@@ -1,34 +1,39 @@
 # Token Vesting Smart Contract (Soroban)
 
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99a181d2-991d-412b-8940-af06a37157bb" />
+
 ## 📌 Project Description
-This project is a basic **Token Vesting Smart Contract** built using **Soroban** on the **Stellar blockchain**.  
-It allows tokens to be locked for a beneficiary and released only after a specific time.
+The **Token Vesting Smart Contract** is a Soroban-based contract built on the Stellar blockchain.  
+It allows tokens to be locked for a specific beneficiary and released only after a predefined time.
+
+This contract ensures secure, transparent, and time-based token distribution.
 
 ---
 
 ## ⚙️ What It Does
 - Locks a fixed amount of tokens
 - Assigns them to a beneficiary
-- Releases tokens only after a predefined timestamp
-- Prevents early or double claiming
-
-https://stellar.expert/explorer/testnet/tx/2fbe5f51440005a98b5368059903a1c15f92b09e2816f9be8bd8122aee9d1ec1
-
-<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/ae42403b-b1f1-4476-8e1f-91754e3fdad7" />
+- Prevents early access to tokens
+- Allows claiming only after the vesting time
+- Prevents double claiming
 
 ---
 
 ## ✨ Features
-- ⏳ Time-based token locking
-- 🔐 Secure beneficiary verification
-- ❌ Prevents double claiming
-- 🧠 Simple and beginner-friendly Soroban design
-- ⚡ Gas-efficient logic 
+- ⏳ Time-based token vesting
+- 🔐 Beneficiary verification
+- ❌ Protection against double claims
+- ⚡ Lightweight and gas-efficient
+- 🧠 Beginner-friendly Soroban logic
 
 ---
 
 ## 🔗 Deployed Smart Contract Link
-**tokenvestingcontract**  
- 
+https://stellar.expert/explorer/testnet/contract/CCBUWJLXPVT3CUSHDWOL4U7VNKIUSRDMQK3DKOMYEQW3QLN5VTQGHJJO
 
-Example:
+
+Author Name
+Aakrity Mishra

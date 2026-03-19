@@ -35,5 +35,5 @@ This contract ensures secure, transparent, and time-based token distribution.
 https://stellar.expert/explorer/testnet/contract/CCBUWJLXPVT3CUSHDWOL4U7VNKIUSRDMQK3DKOMYEQW3QLN5VTQGHJJO
 
 
-Author Name
+Author Name: 
 Aakrity Mishra
